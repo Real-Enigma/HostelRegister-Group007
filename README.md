@@ -8,6 +8,9 @@ We just created a simple in and out register, in which the hostellers will enter
 Swing
 MySQL Workbench
 
+## PREREQUISITE
+MySQL Workbench
+
 ## SCREENSHOTS
 ![Project 1](https://user-images.githubusercontent.com/117971048/219342210-f0bc00ad-9507-465e-82b1-0cc70016fa15.png)
 ![Project 2](https://user-images.githubusercontent.com/117971048/219342261-da0b4042-ba0c-440c-846f-455f0780d22a.png)
